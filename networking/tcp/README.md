@@ -7,7 +7,7 @@ Lessons from the Networking, Sockets, and Security chapter, page 223.
 # start the server
 $ node server.js
 
-# on other terminal window, establish a TCP connection to the server
+# on other terminal window, establish a TCP connection to the server on port 8124
 $ telnet localhost 8124
 
 # on other terminal window, run the client
