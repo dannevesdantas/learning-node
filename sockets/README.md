@@ -5,7 +5,7 @@ Lessons from the Networking, Sockets, and Security chapter, page 223.
 
 ```bash
 # run the app
-$ node index.js
+$ node server.js
 
 # establish a TCP connection
 $ telnet localhost 8124
