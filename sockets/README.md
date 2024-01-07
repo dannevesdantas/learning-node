@@ -4,9 +4,12 @@ Lessons from the Networking, Sockets, and Security chapter, page 223.
 ## Test
 
 ```bash
-# run the app
+# start the server
 $ node server.js
 
-# establish a TCP connection
+# on other terminal window, establish a TCP connection to the server
 $ telnet localhost 8124
+
+# on other terminal window, run the client
+$ node client.js
 ```
