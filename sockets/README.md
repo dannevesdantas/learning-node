@@ -1,4 +1,4 @@
-# Redes, sockets e segurança
+# Networking, Sockets, and Security
 Lessons from the Networking, Sockets, and Security chapter, page 223.
 
 ## Test
