@@ -1,7 +1,7 @@
 # Networking, Sockets, and Security
 Lessons from the Networking, Sockets, and Security chapter, page 223.
 
-## Test
+## Running the app
 
 ```bash
 # start the server
